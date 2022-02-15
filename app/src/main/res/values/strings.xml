@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="naira_symbol">NGN</string>
+    <string name="prompt">EUR</string>
+    <string name="old_currency">Exchange for today:</string>
+    <string name="new_currency">New currency</string>
+    <string name="full_stop">.</string>
+    <string name="converter">converter</string>
+</resources>
