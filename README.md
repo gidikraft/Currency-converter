@@ -35,3 +35,6 @@ Use Fixer.io to get conversion rate data
 # Bonus Points
 Code Comments & Documentation
 Unit and UI tests
+
+
+![Screenshot 2022-02-15 at 16 44 41](https://user-images.githubusercontent.com/54280410/154097113-c04ceeac-38da-46b6-8b0a-f14c8074d1d7.png)
