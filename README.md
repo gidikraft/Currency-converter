@@ -32,6 +32,6 @@ Follow Material design guidelines and try to stay as true to the original design
 Use Fixer.io to get conversion rate data
 
 
-#Bonus Points
+# Bonus Points
 Code Comments & Documentation
 Unit and UI tests
